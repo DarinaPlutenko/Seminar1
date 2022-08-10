@@ -1,0 +1,15 @@
+C:\DarinaGit\MyC#\task4\bin\Debug\net6.0\task4.exe
+C:\DarinaGit\MyC#\task4\bin\Debug\net6.0\task4.deps.json
+C:\DarinaGit\MyC#\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+C:\DarinaGit\MyC#\task4\bin\Debug\net6.0\task4.dll
+C:\DarinaGit\MyC#\task4\bin\Debug\net6.0\task4.pdb
+C:\DarinaGit\MyC#\task4\obj\Debug\net6.0\task4.csproj.AssemblyReference.cache
+C:\DarinaGit\MyC#\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\DarinaGit\MyC#\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+C:\DarinaGit\MyC#\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+C:\DarinaGit\MyC#\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+C:\DarinaGit\MyC#\task4\obj\Debug\net6.0\task4.dll
+C:\DarinaGit\MyC#\task4\obj\Debug\net6.0\refint\task4.dll
+C:\DarinaGit\MyC#\task4\obj\Debug\net6.0\task4.pdb
+C:\DarinaGit\MyC#\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
+C:\DarinaGit\MyC#\task4\obj\Debug\net6.0\ref\task4.dll
